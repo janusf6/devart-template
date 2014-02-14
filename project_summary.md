@@ -10,7 +10,7 @@ Janus Fouché
 A moment into an icon- A symbol with loaded meaning beyond itself. 
 By breaking a concept down to its atomic parts, and reconstructing it using a set of rules, anything can be immortalised with an icon.
 My idea is to invite the user to choose a point in the world, combined with a point in time- a moment significant to them (either personally or historically) and break it down to its coordinates in space-time. I will then reconstruct this moment as a computationally generated image, an icon- unique and meaningful to them.
-Furthermore, I will have a "Current Moment", which will be alive, constantly changing as time progresses- an animated icon.
+One step further, I will have the "Current Moment" at the user's location, which will be brought alive, constantly changing as time progresses- an animated icon.
 
 Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
 
