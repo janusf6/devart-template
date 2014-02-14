@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "maps"
         ],
         "platforms": [
-            "insert platforms"
+            "web"
         ],
         "toolkits": [
-            "insert toolkits"
+            "webgl"
         ]
     },
     "themes": [
-        "insert themes"
+        "meaning"
+        "moment"
+        "time"
+        "translation"
     ]
 }
