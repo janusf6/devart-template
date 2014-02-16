@@ -1,10 +1,9 @@
-# Project Title
-icon
+# icon
+
 
 ## Authors
-Janus Fouché
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+Janus Fouché<br>
+https://github.com/janusf6
 
 ## Description
 A moment into an icon- A symbol with loaded meaning beyond itself. 
@@ -13,10 +12,10 @@ My idea is to invite the user to choose a point in the world, combined with a po
 One step further, I will have the "Current Moment" at the user's location, which will be brought alive, constantly changing as time progresses- a perpetual animation.
 
 ## Link to Prototype
- 
+ //todo
 ## Example Code
- 
+ //todo 
 ## Links to External Libraries
- 
+ //todo 
 ## Images & Videos
- 
+ //todo 
