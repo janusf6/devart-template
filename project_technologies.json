@@ -4,17 +4,19 @@
             "maps"
         ],
         "platforms": [
-            "web"
+            "web" 
         ],
         "toolkits": [
+            "processing",
             "webgl"
+            
         ]
     },
     "themes": [
-        "meaningful generative art"
-      "memory"
-        "time"
-        "personal"
+        "meaningful generative art",
+      "memory",
+        "time",
+        "personal",
         "reconstruction"
     ]
 }
